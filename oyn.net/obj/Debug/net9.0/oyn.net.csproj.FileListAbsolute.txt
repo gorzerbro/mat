@@ -1,0 +1,14 @@
+C:\Users\Saidus_work\Desktop\oyn.net\bin\Debug\net9.0\oyn.net.exe
+C:\Users\Saidus_work\Desktop\oyn.net\bin\Debug\net9.0\oyn.net.deps.json
+C:\Users\Saidus_work\Desktop\oyn.net\bin\Debug\net9.0\oyn.net.runtimeconfig.json
+C:\Users\Saidus_work\Desktop\oyn.net\bin\Debug\net9.0\oyn.net.dll
+C:\Users\Saidus_work\Desktop\oyn.net\bin\Debug\net9.0\oyn.net.pdb
+C:\Users\Saidus_work\Desktop\oyn.net\obj\Debug\net9.0\oyn.net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saidus_work\Desktop\oyn.net\obj\Debug\net9.0\oyn.net.AssemblyInfoInputs.cache
+C:\Users\Saidus_work\Desktop\oyn.net\obj\Debug\net9.0\oyn.net.AssemblyInfo.cs
+C:\Users\Saidus_work\Desktop\oyn.net\obj\Debug\net9.0\oyn.net.csproj.CoreCompileInputs.cache
+C:\Users\Saidus_work\Desktop\oyn.net\obj\Debug\net9.0\oyn.net.dll
+C:\Users\Saidus_work\Desktop\oyn.net\obj\Debug\net9.0\refint\oyn.net.dll
+C:\Users\Saidus_work\Desktop\oyn.net\obj\Debug\net9.0\oyn.net.pdb
+C:\Users\Saidus_work\Desktop\oyn.net\obj\Debug\net9.0\oyn.net.genruntimeconfig.cache
+C:\Users\Saidus_work\Desktop\oyn.net\obj\Debug\net9.0\ref\oyn.net.dll
